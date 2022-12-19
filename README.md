@@ -3,7 +3,6 @@
 ## Description
 
 This website conveys some of the key steps to assembling a website using Git, Github, HTML, CSS and JavaScript.
-It was also a great way to learn how to set up my computer and connect it to github and learn the basics of coding.
 
 
 ## Installation
